@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mehdibenhadjkhelifa
-- 👀 I’m interested in Game development/programming
-- 🌱 I’m currently learning Unity,Unreal,C,C#,C++ and python
-- 💞️ I’m looking to collaborate on a Game
-- 📫 How to reach me , send an email:mehdi.benhajkhelifa@ieee.org
+- Hi, I’m @Mehdibenhadjkhelifa
+- I’m interested in programming/low level programming
+- I’m currently learning C,C#,C++ and python
+- I’m looking to collaborate on a desktop app 
+- How to reach me , send an email:mehdi.bhk13@gmail.com
 
 <!---
 Mehdibenhadjkhelifa/Mehdibenhadjkhelifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
