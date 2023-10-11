@@ -1,6 +1,6 @@
 - Hi, I’m @Mehdibenhadjkhelifa
 - I’m interested in programming/low level programming
-- I’m currently learning C,C#,C++ and python
+- I’m currently learning C,C#,C++,rust python
 - I’m looking to collaborate on a desktop app 
 - How to reach me , send an email:mehdi.bhk13@gmail.com
 
