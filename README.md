@@ -29,12 +29,8 @@ Software developer
 
 <a href="http://www.github.com/MehdiBenHadjKhelifa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiBenHadjKhelifa&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/MehdiBenHadjKhelifa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiBenHadjKhelifa&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/MehdiBenHadjKhelifa/ChessClone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehdiBenHadjKhelifa&repo=ChessClone&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/MehdiBenHadjKhelifa/LC3_VM" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehdiBenHadjKhelifa&repo=LC3_VM&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
+<br /><br />
 <div width="100%" align="center"><a href="https://github.com/MehdiBenHadjKhelifa/RayTracing" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehdiBenHadjKhelifa&repo=RayTracing&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/MehdiBenHadjKhelifa/tic-tac-toe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MehdiBenHadjKhelifa&repo=tic-tac-toe&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
