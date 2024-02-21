@@ -6,8 +6,8 @@ Software developer
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [mehdi.benhadjkhelifa@gmail.com](mailto:mehdi.benhadjkhelifa@gmail.com)
-* 🧠  I'm learning Rust and Web development using Angular, NestJS
-* 🤝  I'm open to collaborating on Web application
+* 🧠  I'm learning Rust and OS development
+* 🤝  I'm open to collaborating on C/C++ project
 
 ### Skills
 
